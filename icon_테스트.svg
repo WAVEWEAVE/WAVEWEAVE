@@ -8,12 +8,12 @@
 
       .cls-2 {
         font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 26.16px;
+        font-weight: 700;
       }
 
       .cls-2, .cls-3 {
         fill: #4c4372;
-        font-size: 26.16px;
-        font-weight: 700;
       }
 
       .cls-4 {
@@ -26,11 +26,6 @@
         stroke-linecap: round;
         stroke-linejoin: round;
         stroke-width: 4.86px;
-      }
-
-      .cls-3 {
-        font-family: Rift-BoldItalic, Rift;
-        font-style: italic;
       }
 
       .cls-6 {
@@ -64,7 +59,11 @@
       <rect class="cls-5" x="147.02" y="134.42" width="11.02" height="26.36" rx="2.06" ry="2.06"/>
       <path class="cls-5" d="M152.53,119.5c-1.17,0-2.32-.09-3.45-.25v15.17h6.9v-15.17c-1.13.16-2.28.25-3.45.25Z"/>
       <circle class="cls-5" cx="152.53" cy="95.06" r="24.45" transform="translate(6.34 199.6) rotate(-67.5)"/>
-      <text class="cls-3" transform="translate(81.33 99.82)"><tspan x="0" y="0">404</tspan></text>
+      <g>
+        <path class="cls-3" d="M89.75,93.04h1.31l-.47,2.56h-1.31l-.73,4.21h-2.93l.73-4.21h-5.23l.47-2.64,6.25-11.46h3.93l-2.01,11.54ZM83.97,93.04h2.85l1.52-8.53-4.37,8.53Z"/>
+        <path class="cls-3" d="M102.86,85.16l-1.94,10.99c-.5,2.77-2.07,3.87-5.08,3.87h-.21c-2.49,0-4.21-1.1-3.72-3.87l1.94-10.99c.47-2.77,2.07-3.87,5.08-3.87h.21c2.49,0,4.19,1.1,3.72,3.87ZM98.57,83.96c-.97,0-1.65.37-1.86,1.67l-1.78,10.05c-.24,1.31.31,1.67,1.28,1.67s1.62-.37,1.86-1.67l1.78-10.05c.21-1.31-.31-1.67-1.28-1.67Z"/>
+        <path class="cls-3" d="M111.05,93.04h1.31l-.47,2.56h-1.31l-.73,4.21h-2.93l.73-4.21h-5.23l.47-2.64,6.25-11.46h3.93l-2.01,11.54ZM105.27,93.04h2.85l1.52-8.53-4.37,8.53Z"/>
+      </g>
       <text class="cls-2" transform="translate(147.61 103.9)"><tspan x="0" y="0">?</tspan></text>
     </g>
   </g>
